@@ -448,6 +448,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/weibull`][@stdlib/random/array/weibull]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Weibull distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/weibull`][@stdlib/random/iter/weibull]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a Weibull distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/weibull`][@stdlib/random/streams/weibull]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a Weibull distribution.</span>
+-   <span class="package-name">[`@stdlib/random-weibull`][@stdlib/random/weibull]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Weibull distribution.</span>
 
 </section>
 
@@ -536,6 +537,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/weibull]: https://github.com/stdlib-js/random-iter-weibull
 
 [@stdlib/random/streams/weibull]: https://github.com/stdlib-js/random-streams-weibull
+
+[@stdlib/random/weibull]: https://github.com/stdlib-js/random-weibull
 
 <!-- </related-links> -->
 
